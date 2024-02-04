@@ -8,5 +8,5 @@ async fn main() {
 }
 
 async fn root() -> &'static str {
-    "Hello, World!"
+    "Hello from Rust and Axum"
 }
